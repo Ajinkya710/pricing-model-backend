@@ -14,7 +14,7 @@ const swaggerOptions: SwaggerOptions = {
     },
     servers: [
       {
-        url: "http://localhost:5000/api",
+        url: "https://warm-anchorage-56332-b0f0d83a93a0.herokuapp.com/api",
         description: "Development Server",
       },
     ],
