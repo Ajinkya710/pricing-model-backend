@@ -1,1 +1,1 @@
-web: npx ts-node server.ts
+npm run build && node dist/server.js
